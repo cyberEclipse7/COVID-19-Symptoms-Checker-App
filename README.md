@@ -1,4 +1,4 @@
-# COVID-19-Symptoms-Checker-App
+# COVID-19 Symptoms Checker App
 
 Problem: 
 
