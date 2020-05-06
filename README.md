@@ -6,4 +6,4 @@ COVID-19 is a novice virus, and people are not aware whether they have the 
 
 Solution: 
 
-We have built an app using the PowerApps for the local health center to share with the local public, so they can check their symptoms by logging into this app. So a local doctor can check the patient's symptoms and confirm if the condition is critical and if it is necessary for the patient to come to the hospital or not. This way people do not have to visit the hospital and avoid the risk of being infected with the COVID-19 virus.
+We have built an app using the PowerApps for the local health center to share with the local public, so they can check their symptoms by logging into this app. So a local doctor can check the patient's symptoms and confirm if the condition is critical and if it is necessary for the patient to come to the hospital or not. This way people do not have to visit the hospital and avoid the risk of being infected with the COVID-19 virus. This also helps the local doctor manage and prioritze the most vulnerable patients.
